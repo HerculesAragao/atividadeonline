@@ -1,7 +1,7 @@
 .backgound-page {
   background-color: #92caf7; 
-  width: 700px;
-  height: 1500px;
+  width: 1510px;
+  height: 700px;
 }
 
 .layer-one {
@@ -25,10 +25,15 @@
   display: inline-block;
 }
 
+.layer-two img {
+  border-radius : 1rem;
+  margin-top: 1rem;
+  }
+
 div h4 {
   text-align: center;
 }
 
-div h5 {
+div p {
   text-align: center;
 }
