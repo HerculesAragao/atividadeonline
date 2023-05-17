@@ -88,3 +88,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 
 [LinkDesafio](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
+Equipe: Higor, Hércules e Ticiano
